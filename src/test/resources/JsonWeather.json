@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 15.51,
+    "lat": 51.94
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 293.54,
+    "pressure": 1013,
+    "humidity": 49,
+    "temp_min": 293.15,
+    "temp_max": 293.71
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.7,
+    "deg": 270
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1562339437,
+  "sys": {
+    "type": 1,
+    "id": 1714,
+    "message": 0.0076,
+    "country": "PL",
+    "sunrise": 1562294717,
+    "sunset": 1562354357
+  },
+  "timezone": 7200,
+  "id": 7530991,
+  "name": "Zielona Góra",
+  "cod": 200
+}
